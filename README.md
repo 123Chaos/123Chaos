@@ -1,6 +1,6 @@
 <div>
   <div align="center">
    <div>
-     <h6>Learning AI</h6>
+     <h6>Go</h6>
   </div>
 </div>
